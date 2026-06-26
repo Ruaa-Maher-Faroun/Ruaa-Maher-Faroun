@@ -9,7 +9,7 @@ where good UI meets AI.
 React · TypeScript · Next.js · Tailwind CSS · shadcn/ui
 
 🌱 **Right now** I'm building a job-tracking app (CRUD, auth,
-dashboards) and a portfolio site with a Three.js hero — and learning
+dashboards) and I'm learning
 how to weave AI features into everyday tools.
 
 💡 I care about writing clean, readable code and finishing things
