@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Rua'a 👋
 
-<!--
-**Ruaa-Maher-Faroun/Ruaa-Maher-Faroun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend engineer who likes building interfaces that feel
+considered — fast, accessible, and a little bit delightful. I work
+mostly in React and TypeScript, and I'm especially interested in
+where good UI meets AI.
 
-Here are some ideas to get you started:
+🛠️ **I build with**
+React · TypeScript · Next.js · Tailwind CSS · Three.js · shadcn/ui
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Right now** I'm building a job-tracking app (CRUD, auth,
+dashboards) and a portfolio site with a Three.js hero — and learning
+how to weave AI features into everyday tools.
+
+💡 I care about writing clean, readable code and finishing things
+properly: live demos, real READMEs, the unglamorous polish.
+
+📫 **Find me**
+[Portfolio](your-link) · [LinkedIn](your-link) · [Email](mailto:you@example.com)
+
+---
+*Computer engineering grad · West Bank 🇵🇸 · open to remote frontend roles, worldwide*
