@@ -6,7 +6,7 @@ mostly in React and TypeScript, and I'm especially interested in
 where good UI meets AI.
 
 🛠️ **I build with**
-React · TypeScript · Next.js · Tailwind CSS · Three.js · shadcn/ui
+React · TypeScript · Next.js · Tailwind CSS · shadcn/ui
 
 🌱 **Right now** I'm building a job-tracking app (CRUD, auth,
 dashboards) and a portfolio site with a Three.js hero — and learning
